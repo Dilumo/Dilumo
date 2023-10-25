@@ -1,6 +1,6 @@
 # Hello, world! 🚀
 
-I'm **Diego Luiz Manarim**!
+I'm **Diego Manarim**!
 
 ![Badge Unity Developer](https://img.shields.io/badge/Unity-Developer-brightgreen) ![Badge Game Designer](https://img.shields.io/badge/Game-Designer-blue) ![Badge Passionate Gamer](https://img.shields.io/badge/Passionate-Gamer-red)
 
