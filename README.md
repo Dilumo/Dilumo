@@ -6,10 +6,10 @@ I'm **Diego Manarim**!
 
 ## About Me 🎮
 
-- 🎓 I'm currently studying **Game Design and Interactive Media** at *Faculdades Metropolitanas Unidas*.
-- 💼 At present, I work as a **Unity Developer** at *Playmove*, bringing magic to games for the Playtable platform.
-- 🍎 I've spent some time teaching as a **Digital Games Professor** at *SENAC*. Loved every minute of it!
-- 🎨 Check out some of my game jam projects [here](https://dilumo.itch.io/), and don't miss out on "Sling Turtle" over [here](https://dilumo.itch.io/sling-turtle)!
+- 🎓 Studied **Game Design and Interactive Media** at *Faculdades Metropolitanas Unidas*.
+- 💼 Former **Unity Developer** at *Playmove*, where I brought magic to games for the Playtable platform.
+- 📚 Previously served as a **Digital Games Professor** at *SENAC*. Enjoyed every teaching moment!
+- 🎨 Explore some of my game jam projects [here](https://dilumo.itch.io/), and don't miss "Sling Turtle" [here](https://dilumo.itch.io/sling-turtle)!
 
 ## Skills 🔧
 
